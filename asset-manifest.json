@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/starbucks-clone/static/css/main.15b4a285.css",
-    "main.js": "/starbucks-clone/static/js/main.d5e2189f.js",
+    "main.css": "/starbucks-clone/static/css/main.15ade233.css",
+    "main.js": "/starbucks-clone/static/js/main.b1df0099.js",
     "static/media/home-video.mp4": "/starbucks-clone/static/media/home-video.78e4cf88e35b8dcde100.mp4",
+    "static/media/logo-sb-rewards.png": "/starbucks-clone/static/media/logo-sb-rewards.37b56b952d4a337be73a.png",
     "static/media/essiz-deneyim.jpg": "/starbucks-clone/static/media/essiz-deneyim.8b5878dbf9b13bf2a86c.jpg",
+    "static/media/GothamBook.ttf": "/starbucks-clone/static/media/GothamBook.58fb9151c57e59668f17.ttf",
     "static/media/GothamMedium.ttf": "/starbucks-clone/static/media/GothamMedium.0a910c0b9d50be6aa3dc.ttf",
     "static/media/kolay-siparis.jpg": "/starbucks-clone/static/media/kolay-siparis.89d5a72c53a6efc9c560.jpg",
     "static/media/iced-shaken-espresso.jpg": "/starbucks-clone/static/media/iced-shaken-espresso.7593f58eb95c8202e3a9.jpg",
     "static/media/drive-thru.jpg": "/starbucks-clone/static/media/drive-thru.ec717e60b2b134c63f10.jpg",
     "static/media/uygulama-indir.jpg": "/starbucks-clone/static/media/uygulama-indir.1a84457ee8e9574cfc62.jpg",
+    "static/media/touch-coffee.png": "/starbucks-clone/static/media/touch-coffee.9eea30d3ce6bb348e385.png",
     "static/media/kupa-termos-hepsiburada.jpg": "/starbucks-clone/static/media/kupa-termos-hepsiburada.19d29fd9ce010860ff61.jpg",
+    "static/media/Gotham-Bold.otf": "/starbucks-clone/static/media/Gotham-Bold.f9a5c9247af2c80333f4.otf",
+    "static/media/Gotham-Light.otf": "/starbucks-clone/static/media/Gotham-Light.59aa40045d8df0b87a73.otf",
+    "static/media/option1.png": "/starbucks-clone/static/media/option1.952b410836b88218523a.png",
+    "static/media/option2.png": "/starbucks-clone/static/media/option2.657f8ceb1d3a1d318092.png",
+    "static/media/option3.png": "/starbucks-clone/static/media/option3.fd655cd97a633fd13083.png",
     "static/media/umut.jpg": "/starbucks-clone/static/media/umut.246ecd0175224cfe433b.jpg",
     "static/media/location-icon.svg": "/starbucks-clone/static/media/location-icon.351870b901810823cc7db9f86f4e54f8.svg",
     "index.html": "/starbucks-clone/index.html",
-    "main.15b4a285.css.map": "/starbucks-clone/static/css/main.15b4a285.css.map",
-    "main.d5e2189f.js.map": "/starbucks-clone/static/js/main.d5e2189f.js.map"
+    "main.15ade233.css.map": "/starbucks-clone/static/css/main.15ade233.css.map",
+    "main.b1df0099.js.map": "/starbucks-clone/static/js/main.b1df0099.js.map"
   },
   "entrypoints": [
-    "static/css/main.15b4a285.css",
-    "static/js/main.d5e2189f.js"
+    "static/css/main.15ade233.css",
+    "static/js/main.b1df0099.js"
   ]
 }
