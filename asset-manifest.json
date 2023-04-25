@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/starbucks-clone/static/css/main.0cb5cdb7.css",
-    "main.js": "/starbucks-clone/static/js/main.0abffdcb.js",
+    "main.css": "/starbucks-clone/static/css/main.d5b04977.css",
+    "main.js": "/starbucks-clone/static/js/main.3ec47187.js",
     "static/media/home-video.mp4": "/starbucks-clone/static/media/home-video.78e4cf88e35b8dcde100.mp4",
     "static/media/campaign23.gif": "/starbucks-clone/static/media/campaign23.c22ee8f22151791969a8.gif",
     "static/media/campaign14.png": "/starbucks-clone/static/media/campaign14.391ded73cfb16e2ca338.png",
@@ -49,11 +49,11 @@
     "static/media/hint4.jpg": "/starbucks-clone/static/media/hint4.fbca093a8239836d800d.jpg",
     "static/media/location-icon.svg": "/starbucks-clone/static/media/location-icon.351870b901810823cc7db9f86f4e54f8.svg",
     "index.html": "/starbucks-clone/index.html",
-    "main.0cb5cdb7.css.map": "/starbucks-clone/static/css/main.0cb5cdb7.css.map",
-    "main.0abffdcb.js.map": "/starbucks-clone/static/js/main.0abffdcb.js.map"
+    "main.d5b04977.css.map": "/starbucks-clone/static/css/main.d5b04977.css.map",
+    "main.3ec47187.js.map": "/starbucks-clone/static/js/main.3ec47187.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cb5cdb7.css",
-    "static/js/main.0abffdcb.js"
+    "static/css/main.d5b04977.css",
+    "static/js/main.3ec47187.js"
   ]
 }
