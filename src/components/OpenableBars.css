@@ -1,0 +1,53 @@
+.openable-bars {
+  font-size: 1.5rem;
+  margin-top: 10rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4.25rem;
+  padding: 1.5rem 2rem 1rem 3.5rem;
+}
+
+.bar-list-item {
+  padding: 0 1rem;
+  cursor: pointer;
+}
+
+.openable-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 1rem;
+  margin: 0;
+  margin-top: -3.5rem;
+}
+
+.openable-list a {
+  text-decoration: none;
+  color: #6c6c6c;
+}
+
+.home-starbucks-delivers-button {
+  text-decoration: none;
+  color: inherit;
+}
+
+.openable-bars-expand-button {
+  float: right;
+  transform: rotate(90deg);
+  cursor: pointer;
+  border: none;
+  background-color: inherit;
+  transition: color 0.25s ease-out;
+  border-radius: 50%;
+  height: 2.5rem;
+  width: 2.5rem;
+}
+.openable-bars-expand-button:hover {
+  background-color: rgb(231, 231, 231);
+}
+
+.noPadding {
+  padding: 1.5rem 0 1rem 0;
+}

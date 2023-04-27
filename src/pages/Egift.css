@@ -1,0 +1,57 @@
+.egift-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 5rem;
+  align-items: center;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.35);
+}
+
+.egift-bakiye-sorgula {
+  background-color: rgb(214, 239, 223, 0.2);
+  width: 96.5%;
+  margin-top: 4rem;
+  height: 5.25rem;
+  display: flex;
+  align-items: center;
+  padding-left: 2rem;
+  border-radius: 10px;
+  justify-content: space-between;
+}
+
+.bakiye-sorgula-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.bakiye-sorgula-right {
+  margin-right: 2.25rem;
+  font-size: 0.9rem;
+}
+
+.egift-warning {
+  position: absolute;
+  background-color: white;
+  top: 39%;
+  width: 420px;
+  height: 210px;
+  border-radius: 8px;
+  box-shadow: 0 0 0.5px 0 rgba(0, 0, 0, 0.14), 0 1px 1px 0 rgba(0, 0, 0, 0.24);
+  padding: 3rem 2rem 2rem 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  z-index: 9;
+  font-size: 0.95rem;
+}
+
+.egift-warning-buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.go-back-button {
+  background-color: inherit;
+  color: #008248 !important;
+}

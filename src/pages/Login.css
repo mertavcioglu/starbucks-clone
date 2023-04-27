@@ -1,0 +1,53 @@
+.login-left-text {
+  font-size: 1.5rem;
+  margin-left: -30rem;
+}
+
+.login-page-right {
+  margin-left: 40vw;
+  display: flex;
+  flex-direction: column;
+  margin-top: 5rem;
+}
+
+.login-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 9.5rem;
+}
+
+.login-form {
+  width: clamp(250px, 30%, 400px);
+  display: flex;
+  flex-direction: column;
+}
+
+.login-input {
+  width: 100%;
+  border: none;
+  background-color: inherit;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  outline: none;
+  font-size: 0.9rem;
+  padding-bottom: 0.6rem;
+}
+
+input:focus {
+  border-color: #00a862;
+}
+
+.login-input-text {
+  color: rgb(173, 173, 173);
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+  line-height: 1.25rem;
+}
+
+.forgot-password {
+  color: #00653e;
+}
+
+.login-div-button {
+  margin-top: 1.5rem;
+}

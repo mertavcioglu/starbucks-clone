@@ -1,0 +1,32 @@
+.campaign-card {
+  background-color: white;
+  box-shadow: 0 0 0.5px 0 rgba(0, 0, 0, 0.14), 0 1px 1px 0 rgba(0, 0, 0, 0.24);
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  max-width: 28rem;
+}
+
+.campaign-image {
+  margin-bottom: 0.75rem;
+}
+
+.campaign-card-text-area {
+  padding: 1rem 2rem 1rem 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.campaign-header {
+  font-size: 1.4rem;
+  margin: 0;
+}
+
+.campaign-text {
+  line-height: 1.25rem;
+}
+
+.campaign-buttons {
+  display: flex;
+  gap: 1rem;
+}

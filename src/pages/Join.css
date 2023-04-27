@@ -1,0 +1,88 @@
+.join-left-text {
+  font-size: 1.5rem;
+  margin-left: -23.5rem;
+}
+
+.join-page-right {
+  margin-left: 40vw;
+  display: flex;
+  flex-direction: column;
+  margin-top: 5rem;
+}
+
+.join-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 4.25rem;
+}
+
+.join-form {
+  width: clamp(250px, 30%, 400px);
+  display: flex;
+  flex-direction: column;
+}
+
+.join-header {
+  color: rgba(0, 0, 0, 0.56);
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+}
+
+.join-input {
+  width: 100%;
+  border: none;
+  background-color: inherit;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  outline: none;
+  font-size: 0.9rem;
+  padding-bottom: 0.6rem;
+  margin-bottom: 2.5rem;
+}
+
+input:focus {
+  border-color: #00a862;
+}
+
+.join-input-text {
+  color: rgb(173, 173, 173);
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+  margin-top: 0;
+  line-height: 1.25rem;
+}
+
+.join-div-button {
+  margin-top: 4.5rem;
+}
+
+.join-green-text {
+  text-decoration: underline;
+  color: green;
+  margin: 0 0.25rem 0 0.25rem;
+}
+
+.join-checkbox-div {
+  display: flex;
+  align-items: start;
+}
+
+.join-checkbox-text {
+  margin: 0 0 0 0.2rem;
+  line-height: 1.25rem;
+  font-size: 0.95rem;
+}
+
+.join-header-black {
+  font-weight: 700;
+  margin: 3rem 0;
+}
+
+.join-bottom-green-text {
+  margin-left: 0rem;
+}
+
+.join-checkbox-small-div {
+  margin: 1.5rem 0;
+}

@@ -1,0 +1,34 @@
+.home-right-box {
+  display: flex;
+}
+
+.home-right-box-image {
+  width: 50%;
+  margin: auto;
+  margin-top: 0;
+}
+
+.home-right-box-right-div {
+  margin-left: 1.3rem;
+}
+
+.home-right-box-right-div a {
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.home-right-box-header {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.home-right-box-text {
+  line-height: 1.3rem;
+}
+
+.home-right-box-buttons {
+  display: flex;
+  gap: 1rem;
+}

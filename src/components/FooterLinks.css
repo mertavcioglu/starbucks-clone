@@ -1,0 +1,29 @@
+.footer-links {
+  border-top: 1px solid gray;
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+  margin-top: 2rem;
+  margin-left: 1rem;
+  padding: 1.5rem 2rem 1rem 3.5rem;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: 700;
+}
+
+.social-links {
+  display: flex;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.language-button {
+  margin-bottom: 3rem;
+}
+
+.noPadding {
+  padding: 1.5rem 0 1rem 0;
+}

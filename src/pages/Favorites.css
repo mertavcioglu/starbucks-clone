@@ -1,0 +1,24 @@
+.favorites-container {
+  padding-left: 32rem;
+  padding-top: 3.75rem;
+}
+
+.favorites-header {
+  font-size: 1.4rem;
+  font-weight: 500;
+  margin: 0;
+}
+
+.favorites-text {
+  margin: 0.5rem 0 1rem 0;
+  color: rgba(0, 0, 0, 0.56);
+}
+
+.favorites-buttons {
+  display: flex;
+  gap: 1rem;
+}
+
+.favorites-button {
+  margin: 0;
+}

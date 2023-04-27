@@ -1,0 +1,88 @@
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  font-family: "Gotham Screensmart Book", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Gotham Screensmart Book", sans-serif;
+  background-color: #f7f7f7;
+  line-height: 1.5;
+  letter-spacing: -0.01em;
+  --gold: #927e4c;
+}
+
+@font-face {
+  font-family: "Gotham Screensmart Book";
+  src: url("../public/Gotham-Font/GothamBook.ttf") format("woff"),
+    url("../public/Gotham-Font/Gotham-Bold.otf") format("woff"),
+    url("../public/Gotham-Font/GothamMedium.ttf") format("woff"),
+    url("../public/Gotham-Font/Gotham-Light.otf") format("woff");
+}
+
+/* BUTTONS */
+
+.general-button {
+  padding: 8px 16px;
+  border-radius: 50px;
+  transition: background-color 0.25s ease-out;
+  text-decoration: none;
+  width: fit-content;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 0.8rem;
+  border: none;
+}
+
+.natural-bg-button {
+  background-color: inherit;
+  color: #008248;
+  border: 1px solid #05bf6b;
+}
+.natural-bg-button:hover {
+  background-color: rgba(0, 168, 98, 0.1);
+}
+
+.green-button {
+  background-color: #008248;
+  color: white !important;
+}
+.green-button:hover {
+  background-color: #05bf6b;
+}
+
+.sign-button {
+  width: fit-content;
+  align-self: flex-end;
+  cursor: not-allowed;
+  background-color: #ccc;
+  padding: 1.2rem 1.5rem;
+  border: none;
+  border-radius: 50px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.24), 0 8px 12px rgba(0, 0, 0, 0.14);
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 700;
+  transition: 0.5s ease background-color;
+}
+
+.sign-button:hover {
+  background-color: #00a862;
+}
+
+/* ********************** */
+
+.left-of-page {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40vw;
+  height: 100%;
+  margin-top: -5.5rem;
+  border-right: 1px solid rgb(216, 211, 211);
+  background-color: white;
+}
