@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/starbucks-clone/static/css/main.ea8144aa.css",
-    "main.js": "/starbucks-clone/static/js/main.eb44a064.js",
+    "main.css": "/starbucks-clone/static/css/main.0073d71d.css",
+    "main.js": "/starbucks-clone/static/js/main.2d9524b6.js",
     "static/media/home-video.mp4": "/starbucks-clone/static/media/home-video.78e4cf88e35b8dcde100.mp4",
     "static/media/campaign01.gif": "/starbucks-clone/static/media/campaign01.c22ee8f22151791969a8.gif",
     "static/media/campaign10.png": "/starbucks-clone/static/media/campaign10.391ded73cfb16e2ca338.png",
@@ -26,6 +26,7 @@
     "static/media/campaign06.jpeg": "/starbucks-clone/static/media/campaign06.0a66f22ce6eab0f7f9ee.jpeg",
     "static/media/campaign21.jpeg": "/starbucks-clone/static/media/campaign21.6356160d235b0948f152.jpeg",
     "static/media/logo-sb-rewards.png": "/starbucks-clone/static/media/logo-sb-rewards.37b56b952d4a337be73a.png",
+    "static/media/home-popup.jpeg": "/starbucks-clone/static/media/home-popup.d06e2e376fce018f7e3d.jpeg",
     "static/media/essiz-deneyim.jpg": "/starbucks-clone/static/media/essiz-deneyim.8b5878dbf9b13bf2a86c.jpg",
     "static/media/campaign18.jpeg": "/starbucks-clone/static/media/campaign18.fb13807c22e8284de006.jpeg",
     "static/media/GothamBook.ttf": "/starbucks-clone/static/media/GothamBook.58fb9151c57e59668f17.ttf",
@@ -44,15 +45,22 @@
     "static/media/umut.jpg": "/starbucks-clone/static/media/umut.246ecd0175224cfe433b.jpg",
     "static/media/hint3.jpg": "/starbucks-clone/static/media/hint3.74aa18215e6eb4bfbb93.jpg",
     "static/media/hint1.jpg": "/starbucks-clone/static/media/hint1.598ace7e4ac022801e7a.jpg",
+    "static/media/featured01.webp": "/starbucks-clone/static/media/featured01.51970d84e3d96a5a0050.webp",
+    "static/media/featured05.webp": "/starbucks-clone/static/media/featured05.1126d648c48f0a057e6f.webp",
     "static/media/hint2.jpg": "/starbucks-clone/static/media/hint2.dc1f1d3e1973fa7db2eb.jpg",
     "static/media/hint4.jpg": "/starbucks-clone/static/media/hint4.fbca093a8239836d800d.jpg",
+    "static/media/featured03.webp": "/starbucks-clone/static/media/featured03.03d232122d548abe272a.webp",
+    "static/media/featured02.webp": "/starbucks-clone/static/media/featured02.82a0f9ec11f866aea007.webp",
+    "static/media/featured06.webp": "/starbucks-clone/static/media/featured06.f020d2636c1547512a1a.webp",
+    "static/media/featured04.webp": "/starbucks-clone/static/media/featured04.b4f46cbf76079cca74a9.webp",
     "static/media/location-icon.svg": "/starbucks-clone/static/media/location-icon.351870b901810823cc7db9f86f4e54f8.svg",
     "index.html": "/starbucks-clone/index.html",
-    "main.ea8144aa.css.map": "/starbucks-clone/static/css/main.ea8144aa.css.map",
-    "main.eb44a064.js.map": "/starbucks-clone/static/js/main.eb44a064.js.map"
+    "static/media/grey-close.svg": "/starbucks-clone/static/media/grey-close.1e1742b0a558dbb864f4ad37313cfc24.svg",
+    "main.0073d71d.css.map": "/starbucks-clone/static/css/main.0073d71d.css.map",
+    "main.2d9524b6.js.map": "/starbucks-clone/static/js/main.2d9524b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea8144aa.css",
-    "static/js/main.eb44a064.js"
+    "static/css/main.0073d71d.css",
+    "static/js/main.2d9524b6.js"
   ]
 }
