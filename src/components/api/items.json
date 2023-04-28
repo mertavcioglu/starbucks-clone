@@ -1,0 +1,202 @@
+{
+  "espressoDrinks": [
+    {
+      "id": 1,
+      "type": "espressoDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiMTYyODBhMGYtMGNkMC00MTYwLWIwZDEtMTRiZDMyNzkzYmU5Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Espresso Con Panna",
+      "path": "espresso01"
+    },
+    {
+      "id": 2,
+      "type": "espressoDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiNmYyNzMzMjctZDU4Ny00ODIyLWIwZGQtOWU0ZmMyMmIyNzY4Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Espresso",
+      "path": "espresso02"
+    },
+    {
+      "id": 3,
+      "type": "espressoDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiZWFlZDI2M2YtYjhlNy00ZTYyLWJkMzEtMWQ1MGJiYmY0ZjU4Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Espresso Macchiato",
+      "path": "espresso03"
+    }
+  ],
+  "mochaDrinks": [
+    {
+      "id": 1,
+      "type": "mochaDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiMTNiMTkyMjEtY2ZlMy00ZWRkLTg4MzAtMDI3MTA4MjU5NmIyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Buzlu White Chocolate Mocha",
+      "path": "mocha01"
+    },
+    {
+      "id": 2,
+      "type": "mochaDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiYjA1YzI4MGEtZmUyNS00NWQ2LWFhZmYtYTk4ZGI1NWQ3MTgwIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Caffè Mocha",
+      "path": "mocha02"
+    },
+    {
+      "id": 3,
+      "type": "mochaDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiYWQwY2U4YTUtZDVhNC00ZmE1LTg1ZTAtYmNlYWI5NThlMTJlIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "White Chocolate Mocha",
+      "path": "mocha03"
+    },
+    {
+      "id": 4,
+      "type": "mochaDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiNDQ4MDYxMDctMDM1OS00NGY2LTg5ZGItMzBmZGFmZTFlMTA4Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Buzlu Caffè Mocha",
+      "path": "mocha04"
+    }
+  ],
+  "cappuccinoDrinks": [
+    {
+      "id": 1,
+      "type": "cappuccinoDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiODg1ZjBiOTEtZjgxYS00MTA1LWFhMzEtMzgzYThkMDM0MzdhIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Iced Cappuccino",
+      "path": "cappuccino01"
+    },
+    {
+      "id": 2,
+      "type": "cappuccinoDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiN2FmYzlkOTUtYzg0ZC00NTg5LWI2ZmYtZjdhMzYzZDY3MzY4Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Cappuccino",
+      "path": "cappuccino02"
+    }
+  ],
+  "macchiatoDrinks": [
+    {
+      "id": 1,
+      "type": "macchiatoDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiYmI1YTkxMGUtMDMzZC00ODViLTk0ZTAtYmM3MzQ0NzhkNjFlIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Latte Macchiato",
+      "path": "macchiato01"
+    },
+    {
+      "id": 2,
+      "type": "macchiatoDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiYTUzNjU4NzgtMTkxNy00MWQzLWI1YTMtMWFiMDU4MWI0MmY0Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Caramel Macchiato",
+      "path": "macchiato02"
+    },
+    {
+      "id": 3,
+      "type": "macchiatoDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiYjQ4OWQ3MjUtOGE4ZC00OGU0LTljOTgtNDY0ZjFhODgwOTUxIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Buzlu Caramel Macchiato",
+      "path": "macchiato03"
+    }
+  ],
+  "americanoDrinks": [
+    {
+      "id": 1,
+      "type": "americanoDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiYWFmNDUxMmMtMDkxMi00ZTMxLWIyN2UtMDkyZWU1NWRkZjBlIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Caffè Americano",
+      "path": "americano01"
+    },
+    {
+      "id": 2,
+      "type": "americanoDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiMjNjN2U0Y2EtMmMxZC00ZmI5LWI2NWItNjQ1YjFjYmI5NDhjIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Buzlu Caffè Americano",
+      "path": "americano02"
+    }
+  ],
+  "doubleshotDrinks": [
+    {
+      "id": 1,
+      "type": "doubleshotDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiMzliN2RiZGUtODdhMC00MmZjLWJkOTgtOTQ0YjM1ODEwN2FjIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Starbucks Doubleshot™ Iced Shaken",
+      "path": "doubleshot01"
+    }
+  ],
+  "latteDrinks": [
+    {
+      "id": 1,
+      "type": "latteDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiODYwYjhmZGEtMzEyYy00MjIyLThjYzAtOGE0ZDcxZGM5ZGMwIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Cortado",
+      "path": "latte01"
+    },
+    {
+      "id": 2,
+      "type": "latteDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiMjFiM2FkMzktMTFiMy00YTIyLTk3YzUtMTA1MjczZDQ1ZDVkIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Buzlu Caffè Latte",
+      "path": "latte02"
+    },
+    {
+      "id": 3,
+      "type": "latteDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiZjk0N2M4MTctMTU5NS00YmI0LWJjNDktMzhhMTA0OTUzNzQ1Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Flat White",
+      "path": "latte03"
+    },
+    {
+      "id": 4,
+      "type": "latteDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiODZmN2NjZmMtMjFjYi00NmY2LWFlNDItMmExYWVlM2E2ODQ5Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Caffè Latte",
+      "path": "latte04"
+    },
+    {
+      "id": 5,
+      "type": "latteDrinks",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiMDE1OWJjZDEtM2Q5OS00OWU5LTg4M2EtMzQ0N2E1OTBjOTFlIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Ristretto Bianco",
+      "path": "latte05"
+    }
+  ],
+  "filteredCoffee": [
+    {
+      "id": 1,
+      "type": "filteredCoffee",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiNTFjZjhmNTEtMjAzZC00ZGM0LWEzMmMtOTVlMmM1YjZhNTlmIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Cold Brew",
+      "path": "filtered01"
+    },
+    {
+      "id": 2,
+      "type": "filteredCoffee",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiODhmMGNkYjAtZWZmYS00OTdmLWExN2ItNGMzOGU5ZGViYmEwIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Caffè Misto",
+      "path": "filtered02"
+    },
+    {
+      "id": 3,
+      "type": "filteredCoffee",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiMjVhOTliMDEtOWUzYi00YjU5LWJkZTktYjg2Yzg3ZGE1ODkzIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Cold Brew Latte",
+      "path": "filtered03"
+    },
+    {
+      "id": 4,
+      "type": "filteredCoffee",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiODZmN2NjZmMtMjFjYi00NmY2LWFlNDItMmExYWVlM2E2ODQ5Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Filtre Kahve",
+      "path": "filtered04"
+    }
+  ],
+  "turkishCoffee": [
+    {
+      "id": 1,
+      "type": "turkishCoffee",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiYTU2MzlmOTItZDhjNS00MmUzLTgxNGUtMWVhOTljM2VjOTNlIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Duble Türk Kahvesi",
+      "path": "turkish01"
+    },
+    {
+      "id": 2,
+      "type": "turkishCoffee",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiM2QzM2U5NTUtMTFjNS00ZTgxLWI4NmUtZWViOTJjZTRjM2I1Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Türk Kahvesi",
+      "path": "turkish02"
+    }
+  ]
+}

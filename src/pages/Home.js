@@ -20,6 +20,7 @@ function Home() {
   const [showPopUp, setshowPopUp] = useState(true);
   const [currentTime, setCurrentTime] = useState(new Date().getHours());
 
+  // Get current date and time for displaying message on screen.
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentTime(new Date().getHours());
@@ -38,6 +39,20 @@ function Home() {
     homepageMessage = "İyi geceler 🌙";
   }
 
+  // Close homepage popup with ESC Key.
+  useEffect(() => {
+    function handleEscapeKey(event) {
+      if (event.keyCode === 27) {
+        setshowPopUp(false);
+      }
+    }
+
+    document.addEventListener("keydown", handleEscapeKey);
+
+    return () => {
+      document.removeEventListener("keydown", handleEscapeKey);
+    };
+  }, []);
   return (
     <div
       className={`home-container ${showPopUp ? "" : "home-after-close-popup"}`}

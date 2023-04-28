@@ -1,7 +1,10 @@
-* {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box !important;
+  -moz-box-sizing: border-box !important;
+  -ms-box-sizing: border-box !important;
+  box-sizing: border-box !important;
   font-family: "Gotham Screensmart Book", sans-serif;
 }
 

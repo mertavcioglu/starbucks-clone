@@ -1,0 +1,20 @@
+.menu-left-container {
+  flex: 5;
+  display: flex;
+  flex-direction: column;
+  line-height: 2.2rem;
+  font-size: 0.95rem;
+  padding-left: 7.75rem;
+}
+
+.menu-left-header {
+  font-weight: 700;
+  font-size: 1rem;
+  margin: 1rem 0 0.5rem 0;
+}
+
+.menu-left-container a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.56);
+  margin: 0 0 0.3rem 0;
+}
