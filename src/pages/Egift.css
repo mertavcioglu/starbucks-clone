@@ -55,3 +55,7 @@
   background-color: inherit;
   color: #008248 !important;
 }
+
+.go-back-button:hover {
+  background-color: rgba(0, 168, 98, 0.1);
+}

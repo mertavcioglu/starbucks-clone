@@ -1,9 +1,9 @@
 import React from "react";
-import DrinksMenu from "../../DrinksMenu";
+import MenuPage from "../../MenuPage";
 
 function TurkishCoffee(props) {
   return (
-    <DrinksMenu
+    <MenuPage
       title="Türk Kahvesi"
       menuHeader="Türk Kahvesi"
       itemArray={props.items.turkishCoffee}

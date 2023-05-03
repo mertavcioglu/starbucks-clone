@@ -1,3 +1,3 @@
-rewards, featured ve menu her biri icin clickable and content
-menu icin content
-responsive
+Add clickable link and content for both menu items and featured items.
+Add content for bars below.
+Responsiveness.

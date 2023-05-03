@@ -1,9 +1,9 @@
 import React from "react";
-import DrinksMenu from "../../DrinksMenu";
+import MenuPage from "../../MenuPage";
 
 function FilteredCoffee(props) {
   return (
-    <DrinksMenu
+    <MenuPage
       title="Filtre Kahveler"
       menuHeader="Filtre Kahveler"
       itemArray={props.items.filteredCoffee}

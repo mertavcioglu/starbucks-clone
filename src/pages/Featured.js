@@ -1,36 +1,30 @@
 import React from "react";
 import "./Featured.css";
 import FeaturedItem from "../components/FeaturedItem";
-import featured01 from "../images/featured/featured01.webp";
-import featured02 from "../images/featured/featured02.webp";
-import featured03 from "../images/featured/featured03.webp";
-import featured04 from "../images/featured/featured04.webp";
-import featured05 from "../images/featured/featured05.webp";
-import featured06 from "../images/featured/featured06.webp";
 
 function Featured() {
   return (
     <div className="featured-container">
       <FeaturedItem
-        featuredImage={featured01}
-        featuredText="Starbucks® Şehir Temalı Kupa Serisi - Türkiye"
+        featuredImage="https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiZDI2ZjdkZmMtYjE5Mi00ODc4LTliYmUtMGUwZTdjZDUyOTU1Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0="
+        featuredText="Starbucks® Paslanmaz Çelik Damalı Yeşil Termos"
       />
       <FeaturedItem
-        featuredImage={featured02}
-        featuredText="Starbucks® Klasik Seri Termos - Yarı saydam Yeşil Renkli 355ml"
-      />
-      <FeaturedItem
-        featuredImage={featured03}
-        featuredText="Starbucks® Klasik Seri Termos - Yeşil Renkli 444ml"
-      />
-      <FeaturedItem
-        featuredImage={featured04}
+        featuredImage="https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiNjEyZjIwNzctNGI3Ni00MzA4LTlkZGUtNDhhZWZhNzYyZTFkIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0="
         featuredText="Starbucks® Klasik Seri Termos - Mat Yeşil - Siyah Renkli 355ml"
       />
-      <FeaturedItem featuredImage={featured05} featuredText="House Blend" />
       <FeaturedItem
-        featuredImage={featured06}
-        featuredText="Starbucks® Klasik Seri Kupa - Gri 355ml"
+        featuredImage="https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiN2Y2NzljYWItZWM3Ni00ZjE2LWE5NzktYzc1YzdjMjFmYTU3Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0="
+        featuredText="Guatemala Antigua"
+      />
+
+      <FeaturedItem
+        featuredImage="https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiMWI2OWYyMmItN2RmOS00YzEyLWJlYzMtMWRiYWE4NTYxNGUxIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0="
+        featuredText="Colombia Nariño"
+      />
+      <FeaturedItem
+        featuredImage="https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiZTc2Zjg5OGEtYjdjNS00YTdiLTk2NGYtNDc3YTQxM2U1ZTk3Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0="
+        featuredText="Ethiopia"
       />
     </div>
   );

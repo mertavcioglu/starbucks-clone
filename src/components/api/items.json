@@ -1,4 +1,26 @@
 {
+  "pageNotFound": [
+    {
+      "id": 1,
+      "type": "pageNotFound",
+      "image": "https://i.pinimg.com/originals/72/b8/37/72b837fd1445b2262993752accac89f3.png"
+    },
+    {
+      "id": 2,
+      "type": "pageNotFound",
+      "image": "https://www.nicepng.com/png/detail/69-698312_construction-workers-png-blue-collar-workers-cartoon.png"
+    },
+    {
+      "id": 3,
+      "type": "pageNotFound",
+      "image": "https://www.pngitem.com/pimgs/m/204-2042919_happy-handymen-service-in-construction-worker-cartoon-png.png"
+    },
+    {
+      "id": 4,
+      "type": "pageNotFound",
+      "image": "https://www.pngkit.com/png/full/412-4120793_lone-worker-training-cartoon-construction-worker-transparent.png"
+    }
+  ],
   "espressoDrinks": [
     {
       "id": 1,
@@ -197,6 +219,149 @@
       "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiM2QzM2U5NTUtMTFjNS00ZTgxLWI4NmUtZWViOTJjZTRjM2I1Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
       "title": "Türk Kahvesi",
       "path": "turkish02"
+    }
+  ],
+  "cakes": [
+    {
+      "id": 1,
+      "type": "cakes",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiZjZhOThkMGYtYjM4Mi00YWM1LTgyMjYtYThkZDI3Y2UwZTdkIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Kremalı Havuçlu Kek",
+      "path": "cakes01"
+    },
+    {
+      "id": 2,
+      "type": "cakes",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiMzMzMzIxNzgtYzkzMy00ZGRlLTk3NWMtNDg2MDZkN2Y2ZjcwIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Limonlu Kek",
+      "path": "cakes02"
+    },
+    {
+      "id": 3,
+      "type": "cakes",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiYzJjOGU0NTItYTIzNy00NWYwLTlmZjgtMWYzNzE2MmNkNGQ4Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Kahveli Pasta",
+      "path": "cakes03"
+    },
+    {
+      "id": 4,
+      "type": "cakes",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiYmIwOTNjZTQtZWMzYy00YWU4LTliNzctMzg5NGMxNzg0MWM1Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Çikolatalı Ekler",
+      "path": "cakes04"
+    },
+    {
+      "id": 5,
+      "type": "cakes",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiNDE1ZDUzZDYtZDNhMC00NmMyLThkMGQtNTAzZmMyMWVjMjQxIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Starbucks Brownie",
+      "path": "cakes05"
+    },
+    {
+      "id": 6,
+      "type": "cakes",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiMzY3ZGRkZmQtNjhjYi00OTMxLWFkZjYtMzZjMWZjMThiYmNiIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Çikolatalı Donut",
+      "path": "cakes06"
+    },
+    {
+      "id": 7,
+      "type": "cakes",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiOGNhZWZkZjAtNmNjMy00ODYyLWIxMzktM2Q0MjdjYmZiYzgzIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Mozaik Pasta",
+      "path": "cakes07"
+    },
+    {
+      "id": 8,
+      "type": "cakes",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiN2RkMWIzYzctNTYyMC00MTEyLWI5ZmEtYmRkYzBlNTg3M2JjIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Çikolatalı kek (Vegan tüketimine uygun)",
+      "path": "cakes08"
+    },
+    {
+      "id": 9,
+      "type": "cakes",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiNDY3ZDVhMzctOThkZC00ZjI5LThjYzAtYzA3NjMxODRmZTM2Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Pembe Donut",
+      "path": "cakes09"
+    },
+    {
+      "id": 10,
+      "type": "cakes",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiYjIyMjRmNTUtZTUyMy00ZTU1LWJjODItNmI3OWJiZTFhNmRhIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Belçika Çikolatalı Pasta",
+      "path": "cakes10"
+    }
+  ],
+  "cheesecakes": [
+    {
+      "id": 1,
+      "type": "cheesecakes",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiNmZmNjA1YWYtZTM2Yy00ZDBkLThiMTAtYmIwYjI4N2FkNjZlIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Limonlu Cheesecake",
+      "path": "cheesecake01"
+    },
+    {
+      "id": 2,
+      "type": "cheesecakes",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiZmJiMjE1M2QtMDJmNS00MzY0LWE1MmQtY2RmN2ZhZjhiYzBiIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Ahududulu Cheesecake",
+      "path": "cheesecake02"
+    },
+    {
+      "id": 3,
+      "type": "cheesecakes",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiZjJjNDJhNTMtNDYyNy00MDE0LWE4MTctMzlkNTZjNDBhYzExIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Brownie Cheesecake",
+      "path": "cheesecake03"
+    },
+    {
+      "id": 4,
+      "type": "cheesecakes",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiMDIyNTEzZTYtMzZlNC00M2JkLWJiMmItZTA2Zjg4NjlmZDhhIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Dulce de Leche Cheesecake",
+      "path": "cheesecake04"
+    }
+  ],
+  "forShortTime": [
+    {
+      "id": 1,
+      "type": "forShortTime",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiMTYwN2I3MzEtY2U3ZC00NTZjLTlkODctNjdkODIzZWZiM2NjIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Starbucks® Odyssey Blend",
+      "path": "forShortTime01"
+    }
+  ],
+  "blondeRoastCoffees": [
+    {
+      "id": 1,
+      "type": "blondeRoastCofees",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiMWFiNzRlMDgtMGM3OC00NWE0LTlmMzktZDA4Yjc3ZjA1NGFkIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Veranda Blend®",
+      "path": "blondeRoast01"
+    },
+    {
+      "id": 2,
+      "type": "blondeRoastCofees",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiNzQwODVjNDgtMmVlZi00NDhhLTg1MzMtODNlYjY5ZDkwZGY5Iiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Starbucks Blonde® Espresso Roast",
+      "path": "blondeRoast02"
+    }
+  ],
+  "mediumRoastCoffees": [
+    {
+      "id": 1,
+      "type": "mediumRoastCoffees",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiZmJjMmM0MTItMWNlMS00MjZhLTg1N2EtOWMwYmVkNTNhYTVhIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Kenya",
+      "path": "mediumRoast01"
+    },
+    {
+      "id": 2,
+      "type": "mediumRoastCoffees",
+      "image": "https://core.rtbs.io/user/action/cc1eec01745b4c0ba29d63b1fe7e6ccf/rbs.storage.get.GET_IMAGE?data=eyJpbWFnZUlkIjoiNzc2ZDViNmYtOTA0OC00MWZhLWFiN2ItNTAxZWY2NTcwMmNhIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo3MjAsImZpdCI6Im91dHNpZGUiLCJjb250ZW50VHlwZSI6ImltYWdlL3dlYnAiLCJxdWFsaXR5IjozMH0=",
+      "title": "Pike Place® Roast",
+      "path": "mediumRoast02"
     }
   ]
 }

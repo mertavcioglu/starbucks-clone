@@ -10,6 +10,11 @@
   font-size: 1.1rem;
   display: flex;
   align-items: center;
+  cursor: pointer;
+}
+
+.three-options-item:hover {
+  opacity: 0.8 !important;
 }
 
 .three-options-image {
