@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/starbucks-clone/static/css/main.985e47dd.css",
-    "main.js": "/starbucks-clone/static/js/main.31a69fc1.js",
+    "main.css": "/starbucks-clone/static/css/main.4507542a.css",
+    "main.js": "/starbucks-clone/static/js/main.31054735.js",
     "static/media/home-video.mp4": "/starbucks-clone/static/media/home-video.78e4cf88e35b8dcde100.mp4",
     "static/media/campaign01.gif": "/starbucks-clone/static/media/campaign01.c22ee8f22151791969a8.gif",
     "static/media/campaign10.png": "/starbucks-clone/static/media/campaign10.391ded73cfb16e2ca338.png",
@@ -53,9 +53,7 @@
     "static/media/cover_food_07.webp": "/starbucks-clone/static/media/cover_food_07.1fc31861b55a63ea7823.webp",
     "static/media/hint3.jpg": "/starbucks-clone/static/media/hint3.74aa18215e6eb4bfbb93.jpg",
     "static/media/hint1.jpg": "/starbucks-clone/static/media/hint1.598ace7e4ac022801e7a.jpg",
-    "static/media/featured01.webp": "/starbucks-clone/static/media/featured01.51970d84e3d96a5a0050.webp",
     "static/media/cover_food_02.webp": "/starbucks-clone/static/media/cover_food_02.8387cde4939c04da6a96.webp",
-    "static/media/featured05.webp": "/starbucks-clone/static/media/featured05.1126d648c48f0a057e6f.webp",
     "static/media/cover_home_01.webp": "/starbucks-clone/static/media/cover_home_01.57491ae72027d97093c9.webp",
     "static/media/hint2.jpg": "/starbucks-clone/static/media/hint2.dc1f1d3e1973fa7db2eb.jpg",
     "static/media/hint4.jpg": "/starbucks-clone/static/media/hint4.fbca093a8239836d800d.jpg",
@@ -65,25 +63,21 @@
     "static/media/cover_home_03.webp": "/starbucks-clone/static/media/cover_home_03.f669b40fa53b9ed31c4a.webp",
     "static/media/cover_drink_04.webp": "/starbucks-clone/static/media/cover_drink_04.8b45a7d9f39534ee1001.webp",
     "static/media/cover_drink_08.webp": "/starbucks-clone/static/media/cover_drink_08.a53059d46ffc1630f547.webp",
-    "static/media/featured03.webp": "/starbucks-clone/static/media/featured03.03d232122d548abe272a.webp",
-    "static/media/featured02.webp": "/starbucks-clone/static/media/featured02.82a0f9ec11f866aea007.webp",
     "static/media/cover_drink_06.webp": "/starbucks-clone/static/media/cover_drink_06.2283c20c5b31be63d5ec.webp",
     "static/media/cover_drink_02.webp": "/starbucks-clone/static/media/cover_drink_02.ee5f56cc61a9374dcb89.webp",
     "static/media/cover_drink_03.webp": "/starbucks-clone/static/media/cover_drink_03.74cc742b031ad4bdaf73.webp",
-    "static/media/featured06.webp": "/starbucks-clone/static/media/featured06.f020d2636c1547512a1a.webp",
     "static/media/cover_drink_09.webp": "/starbucks-clone/static/media/cover_drink_09.cc379441dd607c2e4914.webp",
     "static/media/cover_drink_05.webp": "/starbucks-clone/static/media/cover_drink_05.2df9d294784f568a7689.webp",
     "static/media/cover_drink_01.webp": "/starbucks-clone/static/media/cover_drink_01.1139262354c1d119e76f.webp",
-    "static/media/featured04.webp": "/starbucks-clone/static/media/featured04.b4f46cbf76079cca74a9.webp",
     "static/media/cover_drink_07.webp": "/starbucks-clone/static/media/cover_drink_07.0b552ef66f7cb6feba8a.webp",
     "static/media/location-icon.svg": "/starbucks-clone/static/media/location-icon.351870b901810823cc7db9f86f4e54f8.svg",
     "index.html": "/starbucks-clone/index.html",
     "static/media/grey-close.svg": "/starbucks-clone/static/media/grey-close.1e1742b0a558dbb864f4ad37313cfc24.svg",
-    "main.985e47dd.css.map": "/starbucks-clone/static/css/main.985e47dd.css.map",
-    "main.31a69fc1.js.map": "/starbucks-clone/static/js/main.31a69fc1.js.map"
+    "main.4507542a.css.map": "/starbucks-clone/static/css/main.4507542a.css.map",
+    "main.31054735.js.map": "/starbucks-clone/static/js/main.31054735.js.map"
   },
   "entrypoints": [
-    "static/css/main.985e47dd.css",
-    "static/js/main.31a69fc1.js"
+    "static/css/main.4507542a.css",
+    "static/js/main.31054735.js"
   ]
 }
